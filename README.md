@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Hacktober-2022 </h1>
+<h1> CollegeWebsite </h1>
 🚀 This repository is for collecting the different projects made by people who wants to contribute in open source.
 
 <br/>
@@ -109,8 +109,8 @@ Now submit the pull request.
 
 <div align="center">
 
-<a href="https://github.com/abhaygupta08/Hacktober-2022/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=abhaygupta08/Hacktober-2022" />
+<a href="https://github.com/abhaygupta08/CollegeWebsite/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=abhaygupta08/CollegeWebsite" />
 </a>
   
   </div>
