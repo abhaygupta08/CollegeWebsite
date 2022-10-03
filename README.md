@@ -109,8 +109,8 @@ Now submit the pull request.
 
 <div align="center">
 
-<a href="https://github.com/abhaygupta08/CollegeWebsite/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=abhaygupta08/CollegeWebsite" />
+<a href="https://github.com/rahul7266">
+  
 </a>
   
   </div>
@@ -144,9 +144,9 @@ We're happy to merge valid pull requests to this repository !
 To get approval of the pull request much quicker (`Follow Me`)🚀
 '''
 ```
-<a align="center" href="https://github.com/abhaygupta08"><kbd><img src="https://avatars3.githubusercontent.com/abhaygupta08?size=100" width="100px;" alt=""/></kbd><br /><sub><b>Abhay Gupta</b></sub></a><br />
+<a align="center" href="https://github.com/rahul7266"><kbd></kbd><br /><sub><b>Rahul Singh</b></sub></a><br />
 
-`For doubts contact hacktober@abhaygupta.me`
+`For doubts contact hacktober@rahulsingh.me`
 ### Happy coding fellas!!💕✨
 
 
